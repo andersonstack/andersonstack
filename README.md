@@ -1,10 +1,13 @@
 <h1> Hello, my name is Anderson! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  <h1>
 
 ### ⇒ About Me
-<div style="font-family: 'Orbitron', sans-serif; font-size: 10px;">
+<div style="font-family: 'Orbitron', sans-serif; font-size: 9px;">
 
-I am passionate about application development and process automation, with a special focus on front-end development. I love creating user interfaces that are visually appealing, intuitive, and efficient. My work involves transforming ideas into digital solutions that truly make a difference. I value the combination of design and functionality, ensuring that every application I develop provides an excellent user experience. I am committed to creating products that meet users' needs and exceed their expectations. Additionally, I work with Arduino.
-
+I am passionate about application development and process automation, with a special focus on front-end <br> 
+development. I love creating user interfaces that are visually appealing, intuitive, and efficient. <br>
+My work involves transforming ideasinto digital solutions that truly make a difference. I value the <br>
+combination of design and functionality, ensuring thatevery application I develop provides an excellent <br>
+user experience. I am committed to creating products that meet users'needs and exceed their expectations.
 </div>
 
 ### ⇒ Skills
