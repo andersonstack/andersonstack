@@ -11,11 +11,11 @@ user experience. I am committed to creating products that meet users'needs and e
 </div>
 
 ### ⇒ Skills
-[![My Skills](https://skillicons.dev/icons?i=py,c,js,vue,flutter,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,js,vue,flutter,dart,git)](https://skillicons.dev)
 
 
 ### ⇒ Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,linux,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,linux,docker,github)](https://skillicons.dev)
 
 
 <br>
