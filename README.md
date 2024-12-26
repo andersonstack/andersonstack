@@ -1,5 +1,5 @@
 <h1> Hello, my name is Anderson! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  <h1>
-
+  
 ### ⇒ About Me
 <div style="font-family: 'Orbitron', sans-serif; font-size: 9px;">
 
@@ -11,7 +11,7 @@ user experience. I am committed to creating products that meet users'needs and e
 </div>
 
 ### ⇒ Skills
-[![My Skills](https://skillicons.dev/icons?i=py,c,js,vue,flutter,dart,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,html,css,js,git)](https://skillicons.dev)
 
 
 ### ⇒ Tools
@@ -22,19 +22,12 @@ user experience. I am committed to creating products that meet users'needs and e
 <br>
 <br>
 
-<div align="center">
-  <a href="https://github.com/anderson-cruz13">
-          <! -- github stats -->
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anderson-cruz13&count_private=true&include_all_commits=true&show_icons=false&title_color=e1bee7&text_color=f8f8f2&bg_color=282a36&cache_seconds=1800&locale=en&hide_border=false&show_owner=true">
-           <! -- language use -->
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-cruz13&theme=dracula&hide_border=false&layout=compact&title_color=e1bee7&text_color=f8f8f2&bg_color=282a36&cache_seconds=180&locale=en">
-           <! -- streak -->
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=anderson-cruz13&background=282a36&ring=e1bee7&fire=e1bee7&stroke=6272a4&currStreakLabel=e1bee7&dates=a5926b&sideNums=f8f8f2&sideLabels=e1bee7&currStreakNum=f8f8f2">
-    
-  </a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anderson-cruz13&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Anderson github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-cruz13&layout=compact&hide_border=true&title_color=00BFFF&text_color=00BFFF&bg_color=0d1117&hide=HTML" />
 </div>
 
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=e1bee7&fontColor=e5d5c5&height=150&section=footer&animation=fadeIn" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>
