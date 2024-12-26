@@ -1,4 +1,4 @@
-<h1> Hello, my name is Anderson! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  <h1>
+<h1> Hello! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  <h1>
   
 ### ⇒ About Me
 <div style="font-family: 'Orbitron', sans-serif; font-size: 9px;">
