@@ -25,9 +25,9 @@ user experience. I am committed to creating products that meet users'needs and e
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anderson-cruz13&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Anderson github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andersonstack&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Anderson github stats" /> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-cruz13&layout=compact&hide_border=true&title_color=00BFFF&text_color=00BFFF&bg_color=0d1117&hide=HTML" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonstack&layout=compact&hide_border=true&title_color=00BFFF&text_color=00BFFF&bg_color=0d1117&hide=HTML" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>
